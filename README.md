@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradhneel Gathe</h1>
 
 <h3 align="center">
-Computer Engineering Student @ VIT Pune 🇮🇳
+Computer Engineering Student @ VIT Pune 
 </h3>
 
 <p align="center">
