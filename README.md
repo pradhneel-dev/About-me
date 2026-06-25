@@ -1,25 +1,130 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Pradhneel Gathe</h1>
 
-Hi 👋, my name is **Pradhneel Gathe**.  
-I am currently studying **Computer Engineering at VIT Pune**.  
+<h3 align="center">
+Computer Engineering Student @ VIT Pune 🇮🇳
+</h3>
 
-## Interests
-- Artificial Intelligence 🤖
-- Machine Learning & Deep Learning 📊
-- Linux & Open Source 🐧
-- Competitive Programming 💻
+<p align="center">
+Backend Development • AI Systems • Cybersecurity • DSA
+</p>
 
-## Skills (in progress 🚀)
-- Programming: Basics of Python
-- Basics of Git & Version Control
-- Basics of Linux
-
-(*still learning and trying to find new things*) 
-
-## Hobbies
-- Reading about new tech 📚
-- Watching anime (sometimes )⚡
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pradhneel-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
-*"The journey of a thousand miles begins with a single step."*
 
+# 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student at **VIT Pune**
+- 💻 Currently mastering **Data Structures & Algorithms** in **Python & Java**
+- 🌱 Exploring **Backend Development**, **AI Systems**, and **Cybersecurity**
+- 🐧 Linux & Open Source enthusiast
+- 🚀 Passionate about solving problems and building impactful software
+- 🎯 Goal: Become a Software Engineer at a top product company
+
+---
+
+# 🚀 Currently Learning
+
+- 📚 Data Structures & Algorithms
+- ☕ Java
+- 🐍 Python
+- 🌐 Backend Development
+- 🤖 AI & Machine Learning
+- 🔐 Cybersecurity
+- 🐧 Linux
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pradhneel-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhneel-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pradhneel-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/pradhneel_dev?theme=dark&font=Baloo&ext=heatmap"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhneel-dev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/pradhneel-dev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/pradhneel_dev/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> *"Success is the sum of small efforts, repeated day in and day out."*
+
+---
+
+⭐ Thanks for visiting my profile!
