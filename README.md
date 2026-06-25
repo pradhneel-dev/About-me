@@ -109,7 +109,7 @@ Backend Development • AI Systems • Cybersecurity • DSA
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pradhneel-gathe-410618378/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
