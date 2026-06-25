@@ -21,7 +21,6 @@ Backend Development • AI Systems • Cybersecurity • DSA
 - 🌱 Exploring **Backend Development**, **AI Systems**, and **Cybersecurity**
 - 🐧 Linux & Open Source enthusiast
 - 🚀 Passionate about solving problems and building impactful software
-- 🎯 Goal: Become a Software Engineer at a top product company
 
 ---
 
@@ -48,13 +47,13 @@ Backend Development • AI Systems • Cybersecurity • DSA
 ### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
