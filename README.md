@@ -13,7 +13,7 @@ Backend Development • AI Systems • Cybersecurity • DSA
 # 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student at **VIT Pune**
-- 💻 Currently mastering **Data Structures & Algorithms** in **Python & Java**
+- 💻 Currently mastering **Data Structures & Algorithms** in **Python**
 - 🌱 Exploring **Backend Development**, **AI Systems**, and **Cybersecurity**
 - 🐧 Linux & Open Source enthusiast
 - 🚀 Passionate about solving problems and building impactful software
